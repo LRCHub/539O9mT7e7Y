@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "SPARKLE（feat. Ovall、Kan Sano、Michael Kaneko、Hiro-a-key）",
+  "base_artist": "さかいゆう",
+  "createdAt": "2026-03-13T06:31:08.413420Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SPARKLE",
+      "artist": "さかいゆう, Ovall, Kan Sano, Michael Kaneko, Hiro-a-key",
+      "has_synced": false,
+      "path": "select/pl_01_SPARKLE_さかいゆう,_Ovall,_Kan_Sano,_Michael_Kaneko,_Hiro-a-key.txt"
+    }
+  ]
+}
